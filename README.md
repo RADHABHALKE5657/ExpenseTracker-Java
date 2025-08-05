@@ -37,9 +37,7 @@ provides a simple and text-based interface for recording, tracking, and analyzin
 ### Installation
 
 1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/AronnoDIU/Console-based_Expense_Tracker.git
-   ```
+  
 
 ## Usage
 
@@ -75,16 +73,6 @@ Choose option 8 from the menu to save expenses and exit the application.
 
 Contributions are welcome! If you encounter issues or have suggestions for improvements,
 please open an issue or submit a pull request.
-
-## Acknowledgements
-
-This project was created by [Yeasir Arafat Aronno](https://github.com/AronnoDIU).
-
-Inspired by the need for a simple console-based expense tracker. Built with Java and a passion for coding.
-
-## License
-
-This project is licensed under the MIT License.
 
 ## Conclusion
 
